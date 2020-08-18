@@ -4,3 +4,17 @@ public static void main(String[] args) {
   
   System.out.println("Clone");
 }
+
+  for(int i=0; i<5; i++) {
+   
+   e[i] = new Employee();
+   e[i].getInput();
+  }
+  
+  System.out.println("**** Data Entered as below ****");
+  
+  for(int i=0; i<5; i++) {
+   
+   e[i].display();
+  }
+ }
