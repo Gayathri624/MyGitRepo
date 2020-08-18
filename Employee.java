@@ -16,4 +16,9 @@
   System.out.print("Enter the salary :: ");
   salary = in.nextFloat();
  }
-   
+    public void display() {
+  
+  System.out.println("Employee id = " + empid);
+  System.out.println("Employee name = " + name);
+  System.out.println("Employee salary = " + salary);
+ }
