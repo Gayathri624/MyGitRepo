@@ -16,6 +16,7 @@
   System.out.print("Enter the salary :: ");
   salary = in.nextFloat();
   System.out.println("change in clone");
+  System.out.println("child2");
  }
     public void display() {
   

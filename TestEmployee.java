@@ -3,6 +3,8 @@ public static void main(String[] args) {
   Employee e[] = new Employee[5];
   
   System.out.println("Clone");
+  System.out.println("Child2");
+}
 }
 
   for(int i=0; i<5; i++) {
